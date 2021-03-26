@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    font-size: 0;
+}
+
+.dad {
+    width: 500px;
+    height: 500px;
+    border: dashed;
+}
+
+.son {
+    padding: 10px;
+    display: inline-block;
+}
+
+.box1{
+    background: url(https://images.pexels.com/photos/1466335/pexels-photo-1466335.jpeg?cs=srgb&dl=pexels-yash-lucid-1466335.jpg&fm=jpg);
+    width: 230px;
+    height: 210px;
+    border-bottom: solid 10px gray;
+    border-top: solid 10px gray;
+    background-size: cover;
+}
+
+.box2 {
+    background-color: red;
+    width: 230px;
+    height: 210px;
+    border-bottom: solid 10px gray;
+    border-top: solid 10px gray;
+}
+
+.box3 {
+    background-color: salmon;
+    width: 210px;
+    height: 230px;
+    border-left: solid 10px cyan;
+    border-right: solid 10px cyan;
+}
+
+.box4 {
+    background-color: green;
+    width: 210px;
+    height: 230px;
+    border-left: solid 10px cyan;
+    border-right: solid 10px cyan;
+}
